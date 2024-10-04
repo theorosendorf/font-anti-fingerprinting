@@ -30,7 +30,9 @@ the web. You're welcome to [contribute](CONTRIBUTING.md)!
 ## Introduction
 
 Differences in the set of fonts users have installed locally contribute many
-bits to a unique fingerprint of that user. TODO: link to some quantification.
+bits to a unique fingerprint of that user.
+
+[About Font Fingerprinting](https://blog.browserscan.net/docs/client-rects-font-fingerprinting#Font_Fingerprinting)
 
 ## Terminology
 
